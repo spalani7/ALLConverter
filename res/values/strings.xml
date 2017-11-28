@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AllConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Temperature</string>
+    <string name="title_section2">Length</string>
+    <string name="title_section3">Speed</string>
+    <string name="text1">Celsius</string>
+    <string name="text2">Farenhiet</string>
+     <string name="tempPrompt">Choose unit of Temperature</string>
+<string-array name="Temp_array">
+        <item>Celsius(<sup>o</sup>C)</item>
+        <item>Farenheit(<sup>o</sup>F)</item>
+        <item>Kelvin(<sup>o</sup>K)</item>
+    </string-array>
+   
+</resources>
